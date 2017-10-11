@@ -1,0 +1,11 @@
+{
+  "name": "2d-slime-football-javascript-edition",
+  "version": "0.1.0",
+  "description": "2D Slime Football: JavaScript Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nejc Rebernik",
+  "license": "ISC"
+}
